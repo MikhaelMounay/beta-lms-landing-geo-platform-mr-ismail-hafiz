@@ -3,7 +3,7 @@ Official Website & Application for Mr. Ismail Hafiz
 
 > An instance of Beta LMS
 
-Deployment Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/a7bee3c3-21bf-41b1-9145-612af446b1b6/deploy-status)](https://app.netlify.com/sites/dr-youssef-nagah/deploys)
+Deployment Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/f119de8a-6137-411b-9e92-fed36f8c6ab6/deploy-status)](https://app.netlify.com/sites/geoplatform-mrismailh/deploys)
 
 <br>
 
